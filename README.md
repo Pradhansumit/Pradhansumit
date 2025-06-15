@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sumit Pradhan
 
 I'm a full-stack developer who loves crafting reliable backends and sleek user interfaces.  
-Currently focused on building modern web apps using **React**, **Django**, and **.NET Core**.
+Currently focused on building modern web apps using **React**, **Django**, **Express** and **.NET Core**.
 
 ---
 
@@ -27,7 +27,7 @@ Currently focused on building modern web apps using **React**, **Django**, and *
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sumitpradhan01)
-- [Portfolio](https://your-portfolio-url.com) <!-- Add later when ready -->
+- [Portfolio](https://pradhansumit.vercel.app/) <!-- Add later when ready -->
 
 ---
 📌 *“Code is not just what I write — it’s what I love to refine.”*
