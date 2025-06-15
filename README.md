@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Sumit Pradhan
 
-I'm a full-stack developer who loves crafting reliable backends and sleek user interfaces.  
-Currently focused on building modern web apps using **React**, **Django**, **Express** and **.NET Core**.
+I'm a backend-focused developer passionate about building scalable, reliable web applications.  
+Currently focused on building modern web apps using **React**, **Django**, and **Express**.
+
+I also have strong experience working with **.NET** for building desktop applications and integrating RESTful APIs. I’ve developed Windows Forms applications, implemented API clients, and handled complex file operations and registry access in production-level environments.
 
 ---
 
@@ -17,17 +19,18 @@ Currently focused on building modern web apps using **React**, **Django**, **Exp
 
 ### 💡 What I Know
 
-- 🖥️ Frontend: React, TailwindCSS, Bootstrap
-- 🧠 Backend: Django, DRF, .NET, PostgreSQL, Redis
-- ☁️ Dev Tools: Docker, Git, GitHub Actions
-- 🧪 Testing: xUnit, DRF test client
+- 🖥️ **Frontend:** React, TailwindCSS, Bootstrap
+- 🧠 **Backend:** Django, DRF, Express, .NET (desktop + web APIs), PostgreSQL, Redis
+- ☁️ **Dev Tools:** Docker, Git, GitHub Actions, Postman
+- 🧪 **Testing:** xUnit (for .NET), DRF test client
 
 ---
 
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sumitpradhan01)
-- [Portfolio](https://pradhansumit.vercel.app/) <!-- Add later when ready -->
+- [Portfolio](https://pradhansumit.vercel.app/)
 
 ---
+
 📌 *“Code is not just what I write — it’s what I love to refine.”*
